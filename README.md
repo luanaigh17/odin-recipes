@@ -1,0 +1,1 @@
+This is a basic beginner project for building a basic html template for a recipe website. By the end of this I'll demonstrate knowledge of building a html boilerplate, a basic webpage that can include links and images to other sites or other places in the current directory. Will also demonstrate knowledge of basic Git functions.
